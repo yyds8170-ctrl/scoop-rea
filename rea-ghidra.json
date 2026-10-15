@@ -1,11 +1,11 @@
 {
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "Cross-platform installer/orchestrator for Ghidra + rea-agents (noncommercial)",
   "homepage": "https://github.com/yyds8170-ctrl/rea-ghidra-setup",
   "license": "PolyForm-Noncommercial-1.0.0",
-  "url": "https://github.com/yyds8170-ctrl/rea-ghidra-setup/archive/refs/tags/v4.0.1.zip",
-  "hash": "3105185609d43ef8557f5172f528871c9cb0184ead254513f4ce3d03389d826b",
-  "extract_dir": "rea-ghidra-setup-4.0.1",
+  "url": "https://github.com/yyds8170-ctrl/rea-ghidra-setup/archive/refs/tags/v4.0.2.zip",
+  "hash": "837ff735d3972470849b3fde52d0c2a1e07d1b1d495cf165e1707611d35ac643",
+  "extract_dir": "rea-ghidra-setup-4.0.2",
   "bin": [
     "rea-ghidra.ps1"
   ],
